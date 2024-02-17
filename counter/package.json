@@ -1,0 +1,8 @@
+{
+    "name": "counterapp",
+    "version": "1.0.0",
+    "description": "A simple counter ",
+    "main": "/view/app.js",
+    "type": "module"
+  }
+  
