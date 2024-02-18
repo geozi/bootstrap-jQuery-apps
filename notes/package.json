@@ -1,0 +1,8 @@
+{
+    "name": "notesapp",
+    "version": "1.0.0",
+    "description": "A simple notes app ",
+    "main": "/view/app.js",
+    "type": "module"
+  }
+  
